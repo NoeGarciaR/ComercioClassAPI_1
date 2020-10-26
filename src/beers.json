@@ -1,0 +1,13 @@
+[{
+        "id": "1",
+        "marca": "Moctezuma",
+        "ml": "600",
+        "grados": "5.5"
+    },
+    {
+        "id": "2",
+        "marca": "Tecate",
+        "ml": "500",
+        "grados": "4.5"
+    }
+]
